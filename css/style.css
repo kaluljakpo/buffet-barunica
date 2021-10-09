@@ -550,9 +550,13 @@ a:focus {
 .food {
     position: relative;
     width: 100%;
-    padding: 90px 0 60px 0;
+    padding: 40px 0;
     margin: 45px 0;
     background: rgba(0, 0, 0, .04);
+}
+
+.food h2 {
+    margin-bottom: 20px;
 }
 
 .food .food-item {
@@ -571,14 +575,13 @@ a:focus {
     box-shadow: none;
 }
 
-.food .food-item i {
+.food .food-item img {
     position: relative;
     display: inline-block;
     color: #fbaf32;
-    font-size: 60px;
-    line-height: 60px;
     margin-bottom: 20px;
     transition: .3s;
+    width: 60px;
 }
 
 .food .food-item:hover i {
