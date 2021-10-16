@@ -562,13 +562,30 @@ a:focus {
 .food .food-item {
     position: relative;
     width: 70%;
-    margin-bottom: 30px;
+    margin: 0 auto 30px;
     padding: 50px 30px 30px;
     text-align: center;
     background: #ffffff;
     border-radius: 15px;
     box-shadow: 0 0 30px rgba(0, 0, 0, .08);
     transition: .3s;
+}
+
+.food .food-item-2 {
+    position: relative;
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 50px 30px 30px;
+    text-align: left;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .08);
+    transition: .3s;
+    min-height: 320px;
+}
+
+.food .food-item-2 ul {
+    padding-left: 16px;
 }
 
 .food .food-item:hover {
@@ -887,7 +904,7 @@ a:focus {
     color: #ffffff;
     background: #fbaf32;
     border-radius: 5px;
-    margin: 0 5px;
+    margin: 0 5px 10px;
 }
 
 .menu .menu-tab .nav.nav-pills .nav-link:hover,
@@ -1857,6 +1874,10 @@ a:focus {
     color: #fbaf32;
 }
 
+.footer .footer-newsletter i     {
+    margin-right: 10px;
+}
+
 .footer .footer-contact h2::after,
 .footer .footer-link h2::after,
 .footer .footer-newsletter h2::after {
@@ -1966,3 +1987,59 @@ a:focus {
 .footer .copyright p a:hover {
     color: #719a0a;
 }
+
+.my-gallery {
+    /* margin: 40px 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap; */
+    line-height:0;
+    -webkit-column-gap:5px; /* give it a 5px gap between columns */
+    -moz-column-gap:5px;
+    column-gap:5px;
+    -moz-column-count:    4;
+    -webkit-column-count: 4;
+    column-count:         4;
+
+    margin: 40px auto;
+    width: 90%;
+ 
+  }
+  .my-gallery img {
+    width: 100%;
+    height: auto;
+  }
+  .my-gallery figure {
+    /* padding: 0 5px;
+    width: 22%;
+    flex-grow: 1; */
+    width: 100% !important;
+    height: auto !important;
+    margin-bottom:5px; /* to match column gap */
+ 
+}
+  .my-gallery figcaption {
+    display: none;
+  }
+
+ @media (max-width: 1000px) {
+    .my-gallery {
+        -moz-column-count:    3;
+     -webkit-column-count: 3;
+     column-count:         3;
+    }
+ }
+ @media (max-width: 800px) {
+    .my-gallery {
+        -moz-column-count:    2;
+     -webkit-column-count: 2;
+     column-count:         2;
+    }
+ }
+ @media (max-width: 400px) {
+    .my-gallery {
+        -moz-column-count:    1;
+     -webkit-column-count: 1;
+     column-count:         1;
+    }
+ }
