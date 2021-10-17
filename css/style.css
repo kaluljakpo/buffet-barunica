@@ -2000,10 +2000,8 @@ a:focus {
     -moz-column-count:    4;
     -webkit-column-count: 4;
     column-count:         4;
-
     margin: 40px auto;
     width: 90%;
- 
   }
   .my-gallery img {
     width: 100%;
