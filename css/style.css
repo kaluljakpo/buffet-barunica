@@ -370,7 +370,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 150px 0 90px 0;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, .5)), url(../images/barunicaa.jpg);
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../images/barunicaa.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -426,7 +426,7 @@ a:focus {
 /*******************************/
 .section-header {
     position: relative;
-    margin-bottom: 45px;
+    margin-bottom: 35px;
 }
 
 .section-header p {
@@ -551,7 +551,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 40px 0;
-    margin: 45px 0;
+    margin: 45px 0 0;
     background: rgba(0, 0, 0, .04);
 }
 
