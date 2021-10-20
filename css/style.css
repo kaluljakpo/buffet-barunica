@@ -547,12 +547,17 @@ a:focus {
 /*******************************/
 /********** Menu CSS ***********/
 /*******************************/
+
 .food {
     position: relative;
     width: 100%;
     padding: 40px 0;
     margin: 45px 0 0;
     background: rgba(0, 0, 0, .04);
+}
+
+.food-white{
+    background-color: #ffff;
 }
 
 .food h2 {
