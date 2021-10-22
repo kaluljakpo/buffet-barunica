@@ -196,7 +196,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #fbaf32;
+        color: #e69a20;
     }
     
     .navbar .navbar-nav {
@@ -253,7 +253,7 @@ a:focus {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.6);
+    /*background: rgba(95, 106, 107, 0.6);*/
     z-index: 1;
 }
 
@@ -370,7 +370,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 150px 0 90px 0;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../images/barunicaa.jpg);
+    background: /*linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)),*/ url(../images/ostale.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -403,7 +403,7 @@ a:focus {
     top: -1px;
     right: -7px;
     text-align: center;
-    color: #fbaf32;
+    color: #f89f0f;
 }
 
 .page-header a:last-child::after {
