@@ -2071,7 +2071,7 @@ a:focus {
 .godišnji-tekst {
 	display: inline-block;
 	animation: bounceUpDown 2s ease-in-out infinite;
-	font-size: 18px;
+	font-size: 30px;
 	color: #ffffff;
 	margin-top: 10px;
 }
