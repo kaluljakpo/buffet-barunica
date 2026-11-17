@@ -1,0 +1,138 @@
+﻿vrsta_ponude;naziv_usluge;opis_sastav;kolicina;maloprodajna_cijena;posebni_oblik_prodaje;sidrena_cijena;datum_sidrene_cijene
+Pića – Bezalkoholna pića;Coca-Cola;;0,25 l;3,7;;3,7;10.9.2026
+Pića – Bezalkoholna pića;Coca-Cola Zero;;0,25 l;3,7;;3,7;10.9.2026
+Pića – Bezalkoholna pića;Fanta;;0,25 l;3,7;;3,7;10.9.2026
+Pića – Bezalkoholna pića;Sprite;;0,25 l;3,7;;3,7;10.9.2026
+Pića – Bezalkoholna pića;Schweppes;;0,25 l;3,7;;3,7;10.9.2026
+Pića – Bezalkoholna pića;Cockta;;0,25 l;3,7;;3,7;10.9.2026
+Pića – Bezalkoholna pića;Ledeni čaj;;0,25 l;3,5;;3,5;10.9.2026
+Pića – Bezalkoholna pića;Prirodni sokovi;;0,20 l;4;;4;10.9.2026
+Pića – Bezalkoholna pića;Cedevita;;19 g;3;;3;10.9.2026
+Pića – Bezalkoholna pića;Hidra;;0,50 l;4;;4;10.9.2026
+Pića – Bezalkoholna pića;Izvorska voda Studena;;1,00 l;4;;4;10.9.2026
+Pića – Bezalkoholna pića;Negazirana voda Studena;;0,25 l;3;;3;10.9.2026
+Pića – Bezalkoholna pića;Mineralna voda Radenska;;1,00 l;4;;4;10.9.2026
+Pića – Bezalkoholna pića;Mineralna voda Radenska;;0,25 l;3;;3;10.9.2026
+Pića – Bezalkoholna pića;Mineralna voda Radenska s okusom;;0,25 l;3;;3;10.9.2026
+Pića – Topli napitci;Espresso;;šal.;2;;2;10.9.2026
+Pića – Topli napitci;Dvostruki espresso;;šal.;3,8;;3,8;10.9.2026
+Pića – Topli napitci;Kava s mlijekom;;šal.;2,5;;2,4;10.9.2026
+Pića – Topli napitci;Dvostruki espresso bez kofeina;;šal.;4,2;;4,2;10.9.2026
+Pića – Topli napitci;Cappuccino;;šal.;2,6;;2,6;10.9.2026
+Pića – Topli napitci;Cappuccino bez kofeina;;šal.;3;;3;10.9.2026
+Pića – Topli napitci;Kava sa šlagom;;šal.;2,5;;2,5;10.9.2026
+Pića – Topli napitci;Kava bez kofeina;;šal.;2,5;;2,5;10.9.2026
+Pića – Topli napitci;Kava bez kofeina s mlijekom;;šal.;2,8;;2,8;10.9.2026
+Pića – Topli napitci;Kakao;;šal.;3;;3;10.9.2026
+Pića – Topli napitci;Vruća čokolada;;šal.;3;;3;10.9.2026
+Pića – Topli napitci;Bijela kava;;šal.;3;;3;10.9.2026
+Pića – Topli napitci;Bijela kava bez kofeina;;šal.;3;;3;10.9.2026
+Pića – Topli napitci;Franck cappuccino;;šal.;3;;3;10.9.2026
+Pića – Topli napitci;Razni čajevi;;šal.;2,5;;2,5;10.9.2026
+Pića – Topli napitci;Šlag;;porc.;0,9;;0,9;10.9.2026
+Pića – Topli napitci;Med;;kom.;0,8;;0,8;10.9.2026
+Pića – Domaća alkoholna pića;Amaro;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Brandy;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Lavov;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Domaći likeri;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Lozovača;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Pelinkovac;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Pelinkovac Antique;;0,03 l;3,2;;3,2;10.9.2026
+Pića – Domaća alkoholna pića;Pelinkovac Štrukani;;0,03 l;3,2;;3,2;10.9.2026
+Pića – Domaća alkoholna pića;Domaći rum;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Stock;;0,03 l;3;;3;10.9.2026
+Pića – Domaća alkoholna pića;Domaća votka;;0,03 l;3;;3;10.9.2026
+Pića – Pivo;Ožujsko;;0,50 l;3,6;;3,6;10.9.2026
+Pića – Pivo;Ožujsko Cool;;0,50 l;3,8;;3,8;10.9.2026
+Pića – Pivo;Staropramen;;0,50 l;3,8;;3,8;10.9.2026
+Pića – Pivo;Nikšićko;;0,50 l;3,8;;3,8;10.9.2026
+Pića – Pivo;Vukovarsko;;0,50 l;3,8;;3,8;10.9.2026
+Pića – Pivo;Tomislav;;0,50 l;4;;4;10.9.2026
+Pića – Pivo;Franziskaner Weissbier;;0,50 l;5;;5;10.9.2026
+Pića – Pivo;Beck's;;0,33 l;3,8;;3,8;10.9.2026
+Pića – Pivo;Stella Artois;;0,33 l;4;;4;10.9.2026
+Pića – Pivo;Leffe Blonde;;0,33 l;5;;5;10.9.2026
+Pića – Pivo;Leffe Brune;;0,33 l;5;;5;10.9.2026
+Pića – Pivo s okusom;Ožujsko limun;;0,50 l;3,8;;3,8;10.9.2026
+Pića – Pivo s okusom;Ožujsko grejp;;0,50 l;3,8;;3,8;10.9.2026
+Pića – Vina i aperitivi;Graševina Stručić;;1,00 l;16;;16;10.9.2026
+Pića – Vina i aperitivi;Crno vino;;1,00 l;16;;16;10.9.2026
+Pića – Vina i aperitivi;Gemišt;;0,20 l;2,6;;2,6;10.9.2026
+Pića – Vina i aperitivi;Rajnski rizling Stručić;;0,75 l;26;;26;10.9.2026
+Pića – Vina i aperitivi;Graševina Stručić;;0,75 l;28;;28;10.9.2026
+Pića – Vina i aperitivi;Chardonnay Stručić;;0,75 l;28;;28;10.9.2026
+Pića – Vina i aperitivi;Graševina Adžić;;0,75 l;40;;40;10.9.2026
+Pića – Vina i aperitivi;Malvazija Coronica;;0,75 l;35;;35;10.9.2026
+Pića – Vina i aperitivi;Syrah Korlat;;0,75 l;40;;40;10.9.2026
+Pića – Vina i aperitivi;Pjenušac Kraljica, Puhelek-Purek;;0,75 l;32;;32;10.9.2026
+Pića – Vina i aperitivi;Pjenušac Stručić;;0,75 l;40;;40;10.9.2026
+Pića – Vina i aperitivi;Muškat Stručić;;0,75 l;28;;28;10.9.2026
+Pića – Vina i aperitivi;Aperol Spritz;;0,15 l;5;;5;10.9.2026
+Pića – Vina i aperitivi;Martini;;0,10 l;3,5;;3,5;10.9.2026
+Pića – Vina i aperitivi;Vermut;;0,10 l;3,5;;3,5;10.9.2026
+Pića – Vina i aperitivi;Kuhano vino;;0,20 l;3,5;;3,5;10.9.2026
+Pića – Strana alkoholna pića;Ballantine's;;0,03 l;3,5;;3,5;10.9.2026
+Pića – Strana alkoholna pića;Campari;;0,03 l;3,5;;3,5;10.9.2026
+Pića – Strana alkoholna pića;Chivas Regal;;0,03 l;4;;4;10.9.2026
+Pića – Strana alkoholna pića;Gin;;0,03 l;3,5;;3,5;10.9.2026
+Pića – Strana alkoholna pića;Hendrick's gin;;0,03 l;4;;4;10.9.2026
+Pića – Strana alkoholna pića;Jack Daniel's;;0,03 l;4;;4;10.9.2026
+Pića – Strana alkoholna pića;Jägermeister;;0,03 l;3,5;;3,5;10.9.2026
+Pića – Strana alkoholna pića;Martell VS;;0,03 l;4,5;;4,5;10.9.2026
+Pića – Strana alkoholna pića;Rum;;0,03 l;3,5;;3,5;10.9.2026
+Pića – Strana alkoholna pića;Viljamovka;;0,03 l;3,5;;3,5;10.9.2026
+Pića – Strana alkoholna pića;Vodka;;0,03 l;3,5;;3,5;10.9.2026
+Dnevna ponuda;Grah s kobasicom;;porc.;9;;9;10.9.2026
+Dnevna ponuda;Fileki;;porc.;11;;10;10.9.2026
+Dnevna ponuda;Pečenice sa zeljem i restanim krumpirom;;porc.;12;;12;10.9.2026
+Dnevna ponuda;Teleće pečenje s pekarskim krumpirom;;porc.;16;;16;10.9.2026
+Dnevna ponuda;Juneći gulaš;;porc.;12;;12;10.9.2026
+Dnevna ponuda;Sekeljski gulaš;;porc.;12;;12;10.9.2026
+Dnevna ponuda;Sarma;;porc.;12;;12;10.9.2026
+Dnevna ponuda;Krvavice sa zeljem i restanim krumpirom;;porc.;13;;13;10.9.2026
+Opći jelovnik – Hladna predjela;Miljevački pršut;;100 g;12;;12;10.9.2026
+Opći jelovnik – Hladna predjela;Izbor sireva;;100 g;10;;10;10.9.2026
+Opći jelovnik – Hladna predjela;Sir i vrhnje;;100 g;6;;6;10.9.2026
+Opći jelovnik – Juhe;Domaća goveđa juha s rezancima;;porc.;4;;4;10.9.2026
+Opći jelovnik – Juhe;Dnevna juha (sezonska);;porc.;4;;4;10.9.2026
+Opći jelovnik – Topla predjela;Domaći zapečeni štrukli;;porc.;9;;8;10.9.2026
+Opći jelovnik – Topla predjela;Domaći kuhani štrukli;;porc.;9;;8;10.9.2026
+Opći jelovnik – Topla predjela;Rižoto od povrća;;porc.;10;;10;10.9.2026
+Opći jelovnik – Topla predjela;Crni rižoto od sipe;;porc.;13;;13;10.9.2026
+Opći jelovnik – Topla predjela;Zeleni rezanci s kozicama;;porc.;13;;13;10.9.2026
+Opći jelovnik – Jela sa žara;Ćevapi u lepinji;;porc.;10;;10;10.9.2026
+Opći jelovnik – Jela sa žara;Punjena pljeskavica s pomfritom;;porc.;15;;15;10.9.2026
+Opći jelovnik – Jela sa žara;Mesna plata „Barunica“ za dvije osobe;;kom.;40;;38;10.9.2026
+Opći jelovnik – Riblja jela;Pastrva s prilogom;;porc.;11;;11;10.9.2026
+Opći jelovnik – Riblja jela;Pržene lignje s prilogom;;porc.;14;;14;10.9.2026
+Opći jelovnik – Jela po narudžbi;Teleći bečki odrezak s pomfritom;;porc.;18;;18;10.9.2026
+Opći jelovnik – Jela po narudžbi;Svinjski zagrebački odrezak s pomfritom;;porc.;16;;16;10.9.2026
+Opći jelovnik – Jela po narudžbi;Medaljoni od lungića u umaku od pršuta i kadulje;;porc.;15;;13;10.9.2026
+Opći jelovnik – Jela po narudžbi;Piletina saltimbocca;;porc.;14;;14;10.9.2026
+Opći jelovnik – Prilozi;Povrće sa žara;;porc.;6;;6;10.9.2026
+Opći jelovnik – Prilozi;Šampinjoni sa žara;;porc.;6;;6;10.9.2026
+Opći jelovnik – Prilozi;Pomfrit;;porc.;4;;4;10.9.2026
+Opći jelovnik – Prilozi;Pekarski krumpir;;porc.;4;;4;10.9.2026
+Opći jelovnik – Prilozi;Blitva;;porc.;5;;5;10.9.2026
+Opći jelovnik – Prilozi;Riža;;porc.;4;;4;10.9.2026
+Opći jelovnik – Prilozi;Kajmak / ajvar;;porc.;3;;3;10.9.2026
+Opći jelovnik – Prilozi;Kečap / majoneza / senf;;porc.;2,5;;2,5;10.9.2026
+Opći jelovnik – Prilozi;Masline / krastavci / feferoni;;porc.;3;;3;10.9.2026
+Opći jelovnik – Prilozi;Kruh;;kom.;0,5;;0,5;10.9.2026
+Opći jelovnik – Prilozi;Lepinja;;kom.;2;;2;10.9.2026
+Opći jelovnik – Salate;Salata od graha;;porc.;5;;5;10.9.2026
+Opći jelovnik – Salate;Šopska salata;;porc.;6;;6;10.9.2026
+Opći jelovnik – Salate;Sezonska salata;;porc.;4;;4;10.9.2026
+Opći jelovnik – Salate;Pečena paprika;;porc.;4;;4;10.9.2026
+Opći jelovnik – Slastice;Savijača od sira;;kom.;5;;4;10.9.2026
+Opći jelovnik – Slastice;Savijača od jabuka;;kom.;5;;4;10.9.2026
+Opći jelovnik – Slastice;Zagorski sladoled;;kom.;5;;5;10.9.2026
+Opći jelovnik – Slastice;Palačinke s marmeladom;;kom.;5;;5;10.9.2026
+Opći jelovnik – Slastice;Palačinke s čokoladom;;kom.;5;;5;10.9.2026
+Opći jelovnik – Slastice;Palačinke s orasima;;kom.;5;;5;10.9.2026
+Gotovi jelovnik – Svečanosti;Jelovnik 1;"Goveđa juha sa rezancima; teleće pečenje; roštilj (kobasice i vratina); pohani pileći medaljoni; pekarski krumpir; riži bizi; umak od šampinjona; sezonska miješana salata; domaći kruh Napomena: Djeca do 5 godina gratis; djeca od 5 do 8 godina 50%.";jelovnik;34;;30;10.9.2026
+Gotovi jelovnik – Svečanosti;Jelovnik 2;"Hladna plata (sir, dalmatinski pršut, kulen, domaće kobasice); goveđa juha sa rezancima; teleće pečenje; sporo pečena vratina u umaku od povrća sa njokima; pohani pileći medaljoni; pekarski krumpir; riži bizi; umak od šampinjona; sezonska miješana salata; domaći kruh Napomena: Djeca do 5 godina gratis; djeca od 5 do 8 godina 50%.";jelovnik;45;;39;10.9.2026
+Gotovi jelovnik – Karmine;Jelovnik 1;"Svinjsko pečenje; roštilj (ćevapi, vratina i pileći file); pekarski krumpir; riži bizi; miješana salata";jelovnik;24;;22;10.9.2026
+Gotovi jelovnik – Karmine;Jelovnik 2;"Juha; svinjsko pečenje; roštilj (ćevapi, vratina i pileći file); pekarski krumpir; riži bizi; sezonska miješana salata; desert (štrudla jabuka)";jelovnik;27;;25;10.9.2026
+Gotovi jelovnik – Karmine;Jelovnik 3;"Teleće pečenje; roštilj (ćevapi, vratina i pileći file); pekarski krumpir; riži bizi; miješana salata";jelovnik;27;;25;10.9.2026
+Gotovi jelovnik – Karmine;Jelovnik 4;"Juha; teleće pečenje; roštilj (ćevapi, vratina i pileći file); pekarski krumpir; riži bizi; miješana salata; desert (štrudla jabuka)";jelovnik;30;;28;10.9.2026
